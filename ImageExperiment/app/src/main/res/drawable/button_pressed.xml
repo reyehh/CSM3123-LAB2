@@ -1,0 +1,5 @@
+<!-- button_pressed.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#388E3C" /> <!-- Darker green when pressed -->
+    <corners android:radius="8dp" />
+</shape>
